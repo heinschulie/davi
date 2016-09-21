@@ -1,0 +1,34 @@
+{
+  "name": "davi",
+  "version": "1.0.0",
+  "description": "A repository for the davi project",
+  "main": "index.js",
+  "dependencies": {
+    "lite-server": "^2.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heinschulie/davi.git"
+  },
+  "author": "heinschulie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heinschulie/davi/issues"
+  },
+  "homepage": "https://github.com/heinschulie/davi#readme",
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-if": "^2.0.0",
+    "gulp-minify-css": "^1.2.2",
+    "gulp-print": "^2.0.1",
+    "gulp-sass": "^2.1.1",
+    "gulp-uglify": "^1.5.1",
+    "lite-server": "^2.2.2"
+  }
+}
